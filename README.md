@@ -1,4 +1,4 @@
-<h1 align="center">Stop Hate Speech</h1>
+<h1 align="center">Hate Speech Detection</h1>
 
 <div align="center">
 <img src="Images\hate-speech.png">
